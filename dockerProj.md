@@ -53,7 +53,7 @@ docker compose -f $DOWNLOAD_DIR/docker-compose.yml -p greenbone-community-editio
     exec -u gvmd gvmd gvmd --user=admin --new-password=<password>
 ```
 
-![Alt text](<Screenshot 2023-11-17 001621.png>)
+![docker screenshot](dockerSS.png)
 
 
 # docker-compose.yml code block:
